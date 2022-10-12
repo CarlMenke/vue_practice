@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <GoodComponent />
+    <GoodComponent msg='hello'/>
   </div>
 </template>
 
@@ -12,7 +12,7 @@ export default {
   name: 'App',
   components: {
     GoodComponent
-}
+  }
 }
 </script>
 
