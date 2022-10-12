@@ -13,8 +13,8 @@
     }
 </script>
  
-<styles>
+<style>
     h3 {
         color: #80cbc4;
     }
-</styles>
+</style>
