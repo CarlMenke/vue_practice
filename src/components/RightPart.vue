@@ -8,7 +8,7 @@
     export default {
         name: 'RightPart',
         props:{
-            number:Number
+            number:String
         }
     }
 </script>
